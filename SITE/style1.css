@@ -1,0 +1,93 @@
+
+.header1 {
+	width: 30%;
+	margin:  auto ;
+	color: white;
+	background: #5F9EA0;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+form1, .content1 {
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group1 {
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group1 label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group1 input {
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.btn1 {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+.error1 {
+	width: 92%; 
+	margin: 0px auto; 
+	padding: 10px; 
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: left;
+}
+.success1 {
+	color: #3c763d; 
+	background: #dff0d8; 
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+
+	
+	
+	.tblSaveForm2 {
+	border-top:2px #999999 solid;
+	background-color: #f8f8f8;
+	}
+	.tableheader2 {
+	background-color: #5F9EA0;
+	}
+	.btnSubmit2 {
+	background: #5F9EA0;
+	padding:5px;
+	border-radius:4px;
+	color:white;
+	}
+	.message2 {
+	color: #FF0000;
+	text-align: center;
+	width: 100%;
+	}
+	.txtField2 {
+	padding: 5px;
+	border: #5F9EA0 1px solid;
+	border-radius:4px;
+	}
+	.required2 {
+	color: #FF0000;
+	font-size:11px;
+	font-weight:italic;
+	padding-left:10px;
+	}
